@@ -1,3 +1,15 @@
+Disclaimer
+==========
+
+( ˶°ㅁ°) !! **This is a fork of [soxoj/maigret](https://github.com/soxoj/maigret)**
+
+The aim of this project is to submit evolutions.
+This is not the official repository of the app.
+You should not submit bug reports, issues or pull requests to this fork.
+
+Last constributions from here:
+- Add 6 more websites to manage ([#2009](https://github.com/soxoj/maigret/pull/2009))
+
 # Maigret
 
 <p align="center">
